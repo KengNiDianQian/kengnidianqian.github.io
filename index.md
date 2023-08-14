@@ -1,55 +1,47 @@
 ---
-layout: default
+网站运行测试
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+网站运行测试
 
-[Link to another page](./another-page.html).
+[网站运行测试](./another-page.html).
 
-There should be whitespace between paragraphs.
+网站运行测试
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+网站运行测试
 
-# Header 1
+# 网站运行测试
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+网站运行测试
 
-## Header 2
+## 网站运行测试
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+> 网站运行测试
+>网站运行测试
+### 网站运行测试
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+// 网站运行测试
 }
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+# 网站运行测试
 ```
 
-#### Header 4
+####网站运行测试
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   网站运行测试
+*   网站运行测试
+*   网站运行测试
 
-##### Header 5
+##### 网站运行测试
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  网站运行测试
+2.  网站运行测试
+3.  网站运行测试
 
-###### Header 6
+######网站运行测试
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
